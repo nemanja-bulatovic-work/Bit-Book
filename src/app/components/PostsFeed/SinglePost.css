@@ -1,0 +1,8 @@
+.post {
+    margin-top: 40px;
+}
+
+input[type='submit'] {
+    padding: 10px;
+    border: none;
+}

@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  nav {
+    margin: 0 !important;
+  }
+
+footer {
+  padding: 20px;
+}
+
+.comment-image {
+  margin-top: 50px;
+  width: 150px !important;
+  border-radius: 50% !important;
+}
+
+button {
+  margin-top: 20px;
+}

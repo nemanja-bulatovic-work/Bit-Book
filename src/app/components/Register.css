@@ -1,0 +1,23 @@
+
+
+.register {
+    padding: 15px !important;
+    margin: 0 !important;
+}
+
+.form {
+    margin-top: 40px;
+}
+
+.tabs {
+    margin-top: 30%;
+}
+
+h1 {
+    margin-top: 25%;
+}
+
+.validate-message {
+    color: red;
+    font-weight: bold;
+}
